@@ -1,0 +1,13 @@
+E:\developproject\cocospj\cardgame\Classes\AppDelegate.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\AppDelegate.obj
+E:\developproject\cocospj\cardgame\Classes\HelloWorldScene.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\HelloWorldScene.obj
+E:\developproject\cocospj\cardgame\Classes\GameScene.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\GameScene.obj
+E:\developproject\cocospj\cardgame\Classes\configs\loaders\LevelConfigLoader.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\LevelConfigLoader.obj
+E:\developproject\cocospj\cardgame\Classes\controllers\GameController.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\GameController.obj
+E:\developproject\cocospj\cardgame\Classes\controllers\PlayFieldController.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\PlayFieldController.obj
+E:\developproject\cocospj\cardgame\Classes\controllers\StackController.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\StackController.obj
+E:\developproject\cocospj\cardgame\Classes\services\GameModelFromLevelGenerator.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\GameModelFromLevelGenerator.obj
+E:\developproject\cocospj\cardgame\Classes\views\CardView.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\CardView.obj
+E:\developproject\cocospj\cardgame\Classes\views\GameView.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\GameView.obj
+E:\developproject\cocospj\cardgame\Classes\views\PlayFieldView.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\PlayFieldView.obj
+E:\developproject\cocospj\cardgame\Classes\views\StackView.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\StackView.obj
+E:\developproject\cocospj\cardgame\proj.win32\main.cpp;E:\developproject\cocospj\cardgame\proj.win32\Debug.win32\main.obj
